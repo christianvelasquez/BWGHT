@@ -7,7 +7,6 @@
 import numpy as np
 import pandas as pd
 import math
-from cleands import *
 
 # Read in the data.
 df = pd.read_csv('BWGHT.csv')
